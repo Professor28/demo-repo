@@ -1,4 +1,4 @@
 # Demo
 
 some plain text !
-new plain text.
+Edited plain text.
